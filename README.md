@@ -1,5 +1,6 @@
 # Резюме
-Александр Медведев Junior Python Developer 
+Александр Медведев Junior Python Developer ![photo_2025](https://github.com/user-attachments/assets/ea77a840-75b5-4bb9-aac8-8d5fd8a051b1)
+
 - Email: may65@inbox.ru
 - Телефон: +79267928800
 - GitHub: https://github.com/may65
